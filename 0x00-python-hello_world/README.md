@@ -1,1 +1,1 @@
-complete this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters
+complete this source code to print welcome to Holberton School!
