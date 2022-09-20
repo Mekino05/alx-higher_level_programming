@@ -1,1 +1,1 @@
-write a function that prints a string in uppercase followed by a new line
+write a function that prints the last digit of a number
