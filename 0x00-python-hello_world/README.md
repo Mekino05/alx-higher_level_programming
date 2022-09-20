@@ -1,1 +1,1 @@
-write a function in C that checks if a singly linked list has a cycle in it
+write a script that compiles a Python script file
