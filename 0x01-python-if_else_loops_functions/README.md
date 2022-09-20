@@ -1,1 +1,1 @@
-write a program that prints all possible different combinations of two digits
+write a function that checks for lowercase character
