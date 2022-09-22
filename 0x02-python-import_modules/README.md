@@ -1,1 +1,1 @@
-write a program that imports all functions from the file calculator_1.py and handles basic operations
+write a program that prints #pythoniscool, followed by a new line, in the standard output
