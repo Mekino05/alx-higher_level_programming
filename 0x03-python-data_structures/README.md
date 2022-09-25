@@ -1,1 +1,1 @@
-write a function that removes all characters c and C from a string
+write a function that prints a matrix of integers
