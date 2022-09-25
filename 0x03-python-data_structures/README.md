@@ -1,1 +1,1 @@
-write a function that retrieves an element from a list like in C
+write a function that prints all integers of a list, in reverse order
