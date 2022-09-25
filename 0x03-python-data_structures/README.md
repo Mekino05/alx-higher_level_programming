@@ -1,1 +1,1 @@
-write a function that adds 2 tuples
+write a function that finds the biggest integer of a list
