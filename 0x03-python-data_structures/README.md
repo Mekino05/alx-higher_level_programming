@@ -1,1 +1,1 @@
-write a function that finds the biggest integer of a list
+write a function in C that checks if a singly linked list is a palindrome
