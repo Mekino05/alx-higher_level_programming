@@ -1,1 +1,1 @@
-write a program that prints #pythoniscool, followed by a new line, in the standard output
+write a function that finds the biggest integer of a list
