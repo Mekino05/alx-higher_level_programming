@@ -1,1 +1,1 @@
-write a function that deletes the item at a specific position in a list
+write a function that finds the biggest integer of a list
