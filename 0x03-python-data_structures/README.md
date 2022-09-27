@@ -1,1 +1,1 @@
-write a function in C that checks if a singly linked list is a palindrome
+write a function that deletes the item at a specific position in a list
