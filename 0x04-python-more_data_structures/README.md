@@ -1,1 +1,1 @@
-write a function that deletes a key in a dictionary
+write a function that returns a key with the biggest integer value
