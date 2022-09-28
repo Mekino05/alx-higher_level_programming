@@ -1,1 +1,1 @@
-write a function that prints a dictionary by ordered keys
+write a function that deletes a key in a dictionary
