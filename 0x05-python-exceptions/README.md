@@ -1,1 +1,1 @@
-write a function that divides element by element 2 lists
+write a function that prints an integer
