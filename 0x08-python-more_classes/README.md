@@ -1,0 +1,1 @@
+write an empty class Rectangle that defines
