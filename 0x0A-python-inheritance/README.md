@@ -1,1 +1,1 @@
-write a function that returns the list of available attributes and methods of an object
+write a class MyList that inherits from list
