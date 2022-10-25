@@ -1,1 +1,1 @@
-write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added
+write a script that adds all arguments to a Python list, and then save them to a file
