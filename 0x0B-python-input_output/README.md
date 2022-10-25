@@ -1,1 +1,1 @@
-write a function that writes a string to a text file (UTF8) and returns the number of characters written
+write a script that adds all arguments to a Python list, and then save them to a file
