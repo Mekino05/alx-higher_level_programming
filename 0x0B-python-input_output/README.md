@@ -1,1 +1,1 @@
-write a script that adds all arguments to a Python list, and then save them to a file
+write a function that reads a text file (UTF8) and prints it to stdout
