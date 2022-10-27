@@ -1,1 +1,1 @@
-write a class MyList that inherits from list
+write an empty class BaseGeometry
