@@ -1,1 +1,1 @@
-write a script that updates the score of Bob to 10 in the table second_table
+write a script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server
