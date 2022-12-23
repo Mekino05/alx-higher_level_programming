@@ -1,1 +1,1 @@
-write a class Rectangle that defines a rectangle
+write an empty class Rectangle that defines a rectangle
