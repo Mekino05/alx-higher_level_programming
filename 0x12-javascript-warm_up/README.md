@@ -1,1 +1,1 @@
-write a script that prints the first argument passed to it
+write a script that prints a square
