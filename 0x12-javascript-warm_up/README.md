@@ -1,1 +1,1 @@
-write a script that prints 3 lines
+write a script that prints the first argument passed to it
